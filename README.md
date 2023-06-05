@@ -1,4 +1,18 @@
- <img align="left" width="116" height="116" src="https://raw.githubusercontent.com/jasontaylordev/CleanArchitecture/main/.github/icon.png" />
+TODO
+- Investigate better validation techniques
+- Learn more about Mediator
+- Learn more about the separation of projects
+- Learn more about 
+- Setup RavenDB
+- Setup logging using [SerilogTest](https://github.com/MikeMoolenaar/SerilogTest)
+- Investigate better use of status code
+- Error handling, explore ways to improve exception handling or remove exceptions
+- Incorporate https://github.com/Grauenwolf/CleanArchitecture
+
+
+---
+
+<img align="left" width="116" height="116" src="https://raw.githubusercontent.com/jasontaylordev/CleanArchitecture/main/.github/icon.png" />
  
  # Clean Architecture Solution Template
 [![Build](https://github.com/jasontaylordev/CleanArchitecture/actions/workflows/dotnet-build.yml/badge.svg)](https://github.com/jasontaylordev/CleanArchitecture/actions/workflows/dotnet-build.yml)
